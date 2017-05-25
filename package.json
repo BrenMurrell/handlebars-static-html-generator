@@ -33,6 +33,7 @@
     "handlebars": ">=3.0.0"
   },
   "devDependencies": {
+    "fs": "0.0.1-security",
     "gulp-compile-handlebars": "^0.6.1",
     "gulp-filelist": "^1.0.0",
     "gulp-rename": "^1.2.2",
